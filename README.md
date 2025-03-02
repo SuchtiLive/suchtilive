@@ -82,15 +82,5 @@ Wir entwerfen, entwickeln und betreiben maßgeschneiderte IT-Infrastrukturen und
 
 ---
 
-## ⏱️ Wakatime Statistiken  
-<p align="center">
-	<img src="https://wakatime.com/badge/user/XtreamITSolutions.svg" alt="Wakatime Badge" />
-</p>
-<p align="center">
-	<embed src="https://wakatime.com/share/@XtreamITSolutions/5a310f77-d4d4-437d-af49-b7397d8ef591.svg"></embed>
-</p>
-
----
-
 ### 🏆 GitHub Trophäen
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=suchtilive" alt="suchtilive" /></a> </p>
