@@ -8,7 +8,7 @@ Wir entwerfen, entwickeln und betreiben maßgeschneiderte IT-Infrastrukturen und
 ## 📌 Homepage  
 |           | **Link**                                                                 |
 |----------------------|--------------------------------------------------------------------------|
-| ![Homepage](https://img.shields.io/badge/Homepage-%23FF9C0A.svg?style=for-the-badge&logo=internet-explorer&logoColor=white) | [Xtream-ITSolutions Homepage](https://www.suchtilive.com) |
+| ![Homepage](https://img.shields.io/badge/Homepage-%23FF9C0A.svg?style=for-the-badge&logo=internet-explorer&logoColor=white) | [SuchtiLive´s Homepage](https://www.suchtilive.com) |
 | ![Discord](https://img.shields.io/badge/Discord-%2321D1E0.svg?style=for-the-badge&logo=discord&logoColor=white) | [Tritt unserem Discord bei](https://discord.gg/TTcv3PTbUE)
 
 ---
