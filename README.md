@@ -19,7 +19,7 @@ Wir entwerfen, entwickeln und betreiben maßgeschneiderte IT-Infrastrukturen und
 | ![Dashboard](https://img.shields.io/badge/License%20Panel-%23FF9C0A.svg?style=for-the-badge&logo=tools&logoColor=white)  | Ein benutzerfreundliches Panel zur Verwaltung und Lizenzierung unserer IT-Dienstleistungen. | [Zum Dashboard](https://dashboard.xtream-itsolutions.com)
 
 ---
-## 💻 Unsere Services  
+## 💻 Meine Services  
 | **Service** | **Beschreibung** |
 |-------------|------------------|
 | ![Webhosting](https://img.shields.io/badge/Hosting-%2300A5E5.svg?style=for-the-badge&logo=cloudflare&logoColor=white) | Leistungsstarke Hosting-Lösungen für Websites und Anwendungen, ideal für kleine und große Unternehmen. |
