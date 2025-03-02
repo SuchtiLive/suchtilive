@@ -1,86 +1,96 @@
-# Hey there, I am SuchtiLive. 👋
+# 👋 Willkommen bei SuchtiLive 
+Ich bin ein Fullstack Developer mit Sämtlichen Erfahrungen in besonders NextJS und Typescript
+🧡 Meine Spezialisierungen: Web- und Serverhosting, Discord-Bots, Teamspeak-Server, IT-Beratung, maßgeschneiderte Softwarelösungen und vieles mehr!  
+Wir entwerfen, entwickeln und betreiben maßgeschneiderte IT-Infrastrukturen und Lösungen, die auf die Bedürfnisse der Kunden zugeschnitten sind.
 
-## 🔧 Programming Languages and Frameworks
+---
 
-We utilize a variety of programming languages and frameworks to deliver high-quality solutions to our clients:
+## 📌 Homepage  
+|           | **Link**                                                                 |
+|----------------------|--------------------------------------------------------------------------|
+| ![Homepage](https://img.shields.io/badge/Homepage-%23FF9C0A.svg?style=for-the-badge&logo=internet-explorer&logoColor=white) | [Xtream-ITSolutions Homepage](https://www.suchtilive.com) |
+| ![Discord](https://img.shields.io/badge/Discord-%2321D1E0.svg?style=for-the-badge&logo=discord&logoColor=white) | [Tritt unserem Discord bei](https://discord.gg/TTcv3PTbUE)
 
-### ⚙️ Backend Development
+---
 
-![Java](https://cdn.xtream-itsolutions.com/github/java.svg)
-  - Java is a versatile and widely-used language known for its platform independence and performance.
+## ✨ Unsere Projekte  
+| **Projekt**  | **Beschreibung**  | **Link** |
+|--------------|-------------------|----------|
+| ![Dashboard](https://img.shields.io/badge/License%20Panel-%23FF9C0A.svg?style=for-the-badge&logo=tools&logoColor=white)  | Ein benutzerfreundliches Panel zur Verwaltung und Lizenzierung unserer IT-Dienstleistungen. | [Zum Dashboard](https://dashboard.xtream-itsolutions.com)
 
-![Node.js](https://cdn.xtream-itsolutions.com/github/nodejs.svg)
-  - Node.js allows us to build scalable and efficient network applications, especially server-side applications.
+---
+## 💻 Unsere Services  
+| **Service** | **Beschreibung** |
+|-------------|------------------|
+| ![Webhosting](https://img.shields.io/badge/Hosting-%2300A5E5.svg?style=for-the-badge&logo=cloudflare&logoColor=white) | Leistungsstarke Hosting-Lösungen für Websites und Anwendungen, ideal für kleine und große Unternehmen. |
+| ![Serverhosting](https://img.shields.io/badge/ServerHosting-%23F7C400.svg?style=for-the-badge&logo=server&logoColor=white) | Bereitstellung von dedizierten Servern für maximale Leistung und Kontrolle. |
+| ![Discord](https://img.shields.io/badge/Discord%20Bots-%2321D1E0.svg?style=for-the-badge&logo=discord&logoColor=white) | Erstellung und Verwaltung von Discord-Bots für eine Vielzahl von Funktionen und Automatisierungen. |
+| ![Teamspeak](https://img.shields.io/badge/Teamspeak-%2338B1E7.svg?style=for-the-badge&logo=teamspeak&logoColor=white) | Bereitstellung und Verwaltung von Teamspeak-Servern für Kommunikation in Echtzeit. |
+| ![Beratung](https://img.shields.io/badge/IT%20Consulting-%234A90E2.svg?style=for-the-badge&logo=consulting&logoColor=white) | Beratung bei der Auswahl und Implementierung der besten IT-Lösungen für Ihr Unternehmen. |
 
-![C/C++](https://cdn.xtream-itsolutions.com/github/c.svg)
-  - C/C++ provides low-level control and is crucial for performance-critical applications.
+---
 
-### ⚙️ Frontend Development
+## 💻 Tech Stack  
+### 📡 Server-Hosting
+| **Technologie** | **Beschreibung** |
+|-----------------|------------------|
+| ![Proxmox](https://img.shields.io/badge/Proxmox-%2361A2D1.svg?style=for-the-badge&logo=proxmox&logoColor=white) | Virtualisierungslösungen für Cloud-Infrastrukturen. |
+| ![Firewall](https://img.shields.io/badge/Firewall-%23F44336.svg?style=for-the-badge&logo=firewall&logoColor=white) | Sicherheit durch Firewalls und Schutzsysteme. |
+| ![Apache2](https://img.shields.io/badge/Apache2-%23D22128.svg?style=for-the-badge&logo=apache&logoColor=white) | Weit verbreiteter Webserver zur Bereitstellung von Websites. |
+| ![Nginx](https://img.shields.io/badge/Nginx-%23000000.svg?style=for-the-badge&logo=nginx&logoColor=white) | Webserver und Reverse Proxy zur Optimierung der Performance. |
+| ![cPanel](https://img.shields.io/badge/cPanel-%23FF9C0A.svg?style=for-the-badge&logo=cpanel&logoColor=white) | Benutzerfreundliches Hosting-Management-Panel. |
+| ![Plesk](https://img.shields.io/badge/Plesk-%230080FF.svg?style=for-the-badge&logo=plesk&logoColor=white) | Intuitives Control Panel für Web- und Server-Management. |
+| ![WHMCS](https://img.shields.io/badge/WHMCS-%2300843E.svg?style=for-the-badge&logo=whmcs&logoColor=white) | Automatisierte Abrechnung und Kundensupport-Lösungen. |
+| ![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black) | Open-Source-Betriebssystem für leistungsstarke Serverlösungen. |
+| ![Windows Server](https://img.shields.io/badge/Windows%20Server-%230077B5.svg?style=for-the-badge&logo=microsoft-windows&logoColor=white) | Microsoft Windows Server für Unternehmensanwendungen. |
+| ![Remote Desktop](https://img.shields.io/badge/Remote%20Desktop-%2377B5FE.svg?style=for-the-badge&logo=windows&logoColor=white) | Fernzugriff auf Server über das Remote Desktop-Protokoll. |
 
-![React](https://cdn.xtream-itsolutions.com/github/react.svg)
-  - React is a popular JavaScript library for building user interfaces.
+### 🧑‍💻 Programmiersprachen
+| **Sprache**  | **Beschreibung** |
+|--------------|------------------|
+| ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) | Programmiersprache für interaktive Webanwendungen. |
+| ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) | JavaScript superset mit Typisierung. |
+| ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | Vielseitige Programmiersprache für Web- und Softwareentwicklung. |
+| ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) | Programmiersprache für plattformunabhängige Software. |
+| ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) | Hochleistungsfähige Programmiersprache für System- und Softwareentwicklung. |
+| ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) | Serverseitige Programmiersprache für dynamische Websites. |
+| ![Ruby](https://img.shields.io/badge/ruby-%23CC0000.svg?style=for-the-badge&logo=ruby&logoColor=white) | Dynamische Programmiersprache für Web-Apps und Automation. |
+| ![Vue.js](https://img.shields.io/badge/Vue.js-%2335495E.svg?style=for-the-badge&logo=vue.js&logoColor=4FC08D) | Progressive JavaScript-Bibliothek für Webschnittstellen. |
+| ![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white) | React-basierte Framework für serverseitiges Rendering und statische Websites. |
+| ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) | Grundlegende Markup-Sprache für Webseiten. |
 
-![Vue.js](https://cdn.xtream-itsolutions.com/github/vue.svg)
-  - Vue.js is another JavaScript framework known for its simplicity and flexibility.
+### 🛢️ Datenbanken
+| **Datenbank** | **Beschreibung** |
+|---------------|------------------|
+| ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) | Relationale Open-Source-Datenbank für Webanwendungen. |
+| ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) | Open-Source-Relationaldatenbank, die MySQL kompatibel ist. |
+| ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white) | NoSQL-Datenbank für schnelle, skalierbare Anwendungen. |
+</p>
 
-![HTML/CSS](https://cdn.xtream-itsolutions.com/github/html5.svg)
-  - HTML and CSS are fundamental for web development, ensuring elegant and responsive designs.
+---
 
-### ⚙️ Database Management
+## 📊 GitHub Statistiken  
+<p align="center">
+	<img src="https://github-readme-stats.vercel.app/api?username=suchtilive&show_icons=true&theme=dark" alt="suchtilive" />
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suchtilive&layout=compact&theme=dark" alt="suchtilive" />
+</p>
 
-![MongoDB](https://cdn.xtream-itsolutions.com/github/mongodb.svg)
-  - MongoDB is our choice for NoSQL database solutions, providing scalability and flexibility.
+<br><br>
+<p align="center">
+<img alt="suchtilive Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=suchtilive&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true"/>
+</p>
 
-![MySQL](https://cdn.xtream-itsolutions.com/github/mysql.svg)
-  - MySQL is a reliable relational database system that powers many of our applications.
+---
 
-### ⚙️ Additional Tools and Frameworks
+## ⏱️ Wakatime Statistiken  
+<p align="center">
+	<img src="https://wakatime.com/badge/user/XtreamITSolutions.svg" alt="Wakatime Badge" />
+</p>
+<p align="center">
+	<embed src="https://wakatime.com/share/@XtreamITSolutions/5a310f77-d4d4-437d-af49-b7397d8ef591.svg"></embed>
+</p>
 
-![TypeScript](https://cdn.xtream-itsolutions.com/github/typescript.svg)
-  - TypeScript enhances JavaScript by adding static types, making our code more maintainable.
+---
 
-![Lua](https://cdn.xtream-itsolutions.com/github/lua.svg)
-  - Lua is lightweight and embedded in many applications, offering extensibility.
-
-![Discord.js](https://cdn.xtream-itsolutions.com/github/discordjs.svg)
-  - Discord.js helps us build feature-rich Discord bots.
-
-![Express.js](https://cdn.xtream-itsolutions.com/github/expressjs.svg)
-  - Express.js simplifies building robust web applications with Node.js.
-
-![Mongoose](https://cdn.xtream-itsolutions.com/github/mongoose.svg)
-  - Mongoose is an elegant MongoDB object modeling tool.
-
-### ⚙️ DevOps & Tools
-
-![VS Code](https://cdn.xtream-itsolutions.com/github/vscode.svg)
-  - A highly customizable open-source code editor developed by Microsoft that assists developers in writing, debugging, and deploying code.
-    
-![IntelliJ IDEA](https://cdn.xtream-itsolutions.com/github/intellijidea.svg)
-  - An integrated development environment (IDE) by JetBrains that specializes in Java development and offers a wide range of plugins for other languages and technologies.
-    
-![Git](https://cdn.xtream-itsolutions.com/github/git.svg)
-  - A distributed version control system that allows developers to track, manage, and share changes in source code.
-    
-![GitHub](https://cdn.xtream-itsolutions.com/github/github.svg)
-  - A web platform for Git repository version control, facilitating developer collaboration and project management.
-    
-![Linux](https://cdn.xtream-itsolutions.com/github/linux.svg)
-  - An open-source operating system kernel serving as the foundation for many Linux distributions and used on a variety of systems.
-    
-![Windows](https://cdn.xtream-itsolutions.com/github/windows.svg)
-  - An operating system by Microsoft available in various versions for desktop and server applications.
-
-## License
-
-[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
-[![License](https://img.shields.io/badge/License-Boost_1.0-lightblue.svg)](https://www.boost.org/LICENSE_1_0.txt)
-[![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
-[![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-[![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC_BY--SA_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
-
-## Contact
-
-- [Homepage](https://www.xtream-itsolutions.com)
-- [GitHub](https://github.com/xtream-itsolutions)
-- [E-Mail](mailto:support@xtream-itsolutions.com)
+### 🏆 GitHub Trophäen
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=suchtilive" alt="suchtilive" /></a> </p>
